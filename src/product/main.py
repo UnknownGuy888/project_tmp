@@ -1,7 +1,8 @@
 import pandas as pd
 
 class Test:
-    pass
+    def __init__(self):
+        pass
 
 if __name__ == '__main__':
     t = Test()
